@@ -11,9 +11,9 @@ namespace TodoApi.DTOs
     {
         [Required(ErrorMessage = "Email é obrigatório.")]
         [EmailAddress(ErrorMessage = "Email deve ser um endereço de email válido.")]
-        public string Email { get; set; }
+        public string Email { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "Senha é obrigatório.")]
-        public string Password { get; set; }
+        public string Password { get; set; } = string.Empty;
     }
 }

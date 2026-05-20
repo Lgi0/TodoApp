@@ -29,6 +29,6 @@ namespace TodoApi.Models
 
         public DateTime? UpdatedAt { get; set; }
 
-        public User User { get; set; }
+        public User User { get; set; } = default!;
     }
 }

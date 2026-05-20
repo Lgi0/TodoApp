@@ -13,7 +13,7 @@
           "Microsoft.AspNetCore.OpenApi": "10.0.4",
           "Microsoft.EntityFrameworkCore.Design": "10.0.8",
           "Microsoft.EntityFrameworkCore.SqlServer": "10.0.8",
-          "Swashbuckle.AspNetCore.Swagger": "10.1.7",
+          "Microsoft.OpenApi": "2.4.1",
           "Swashbuckle.AspNetCore.SwaggerGen": "10.1.7",
           "Swashbuckle.AspNetCore.SwaggerUI": "10.1.7",
           "System.IdentityModel.Tokens.Jwt": "8.18.0"

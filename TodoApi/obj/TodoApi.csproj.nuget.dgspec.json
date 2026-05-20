@@ -78,11 +78,11 @@
               "target": "Package",
               "version": "[10.0.8, )"
             },
-            "Swashbuckle.AspNetCore": {
+            "Microsoft.OpenApi": {
               "target": "Package",
-              "version": "[10.1.7, )"
+              "version": "[2.4.1, )"
             },
-            "Swashbuckle.AspNetCore.Swagger": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[10.1.7, )"
             },

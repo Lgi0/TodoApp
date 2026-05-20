@@ -3657,8 +3657,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 10.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.8",
       "Microsoft.EntityFrameworkCore.Tools >= 10.0.8",
+      "Microsoft.OpenApi >= 2.4.1",
       "Swashbuckle.AspNetCore >= 10.1.7",
-      "Swashbuckle.AspNetCore.Swagger >= 10.1.7",
       "Swashbuckle.AspNetCore.SwaggerGen >= 10.1.7",
       "Swashbuckle.AspNetCore.SwaggerUI >= 10.1.7",
       "System.IdentityModel.Tokens.Jwt >= 8.18.0"
@@ -3742,11 +3742,11 @@
             "target": "Package",
             "version": "[10.0.8, )"
           },
-          "Swashbuckle.AspNetCore": {
+          "Microsoft.OpenApi": {
             "target": "Package",
-            "version": "[10.1.7, )"
+            "version": "[2.4.1, )"
           },
-          "Swashbuckle.AspNetCore.Swagger": {
+          "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[10.1.7, )"
           },
